@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "command-line-args": "^5.0.2",
+    "command-line-args": "^5.2.1",
     "command-line-arguments": "^1.1.1",
     "command-line-commands": "^3.0.1",
     "command-line-usage": "^6.1.0",
